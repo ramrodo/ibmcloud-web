@@ -1,0 +1,6 @@
+applications:
+- name: first_app
+  host: appramrodo
+  random-route: false
+  memory: 256M
+  command: node app.js
